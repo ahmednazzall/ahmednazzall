@@ -11,7 +11,11 @@
 
 
 ## 🚀 About Me
-I'm a full stack developer...
+I'm a Junior developer with strong expertise in JavaScript, React, Node.js, and
+ MongoDB. Experienced in building modern web applications using frameworks
+ such as Express, jQuery, and Ant Design. Quick learner, passionate about
+ mastering new technologies, and dedicated to delivering efficient, user-friendly
+ solutions.
 <br>
 ## ⚒️ Tech Skills
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank">
@@ -40,6 +44,8 @@ I'm a full stack developer...
 </a>
 <a href="https://ant.design/" target="blank" >
 <img align="center" src="https://img.shields.io/badge/Ant%20Design-1890FF?style=for-the-badge&logo=antdesign&logoColor=white" width="90" height="30"/>
-</a>
+</a> 
+
+## 📈 My GitHub Stats:
 <p>&nbsp;
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmednazzall&show_icons=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="ahmednazzall stats card" /></p>
